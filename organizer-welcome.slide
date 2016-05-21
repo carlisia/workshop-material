@@ -1,36 +1,37 @@
-GoBridge Workshop - Welcome!
+GoBridge San Diego Workshop - Welcome!
 Thank you for coming!
 
-[date of workshop here]
+May 21, 2016
 
-[organizer name here]
-[organizer job title - company]
-[email - optional]
-[organizer's website]
-@[organizer twitter handle here]
+Carlisia Campos
+Backend Engineer, Verve
+Co-founding member of GoBridge
+Co-host of Go Time FM
+carlisia@golangbridge.org
+@carlisia
 
 
-* Welcome to the GoBridge [name of the course] workshop!
+* Welcome to the GoBridge Building Web Apps with Go workshop!
 .image images/gopher-brown.jpg _ 300
 .caption _Gopher_ by [[http://www.reneefrench.com][Renée French]]
 
 
 * Backchannel for this workshop
-`#gobridge-workshop` channel on Gophers Slack.
+`#gobridge-workshop-sd` channel on Gophers Slack.
 
 Post any question you have, *starting* *now!*
 
 If not on that Slack team, request an invite:
 
-.link https://gophersinvite.herokuapp.com/ https://gophersinvite.herokuapp.com/
+.link https://invite.slack.golangbridge.org/ https://invite.slack.golangbridge.org/
 
 
 * Housekeeping items
 - Raise your hand
 So the instructor and TAs can better assist everyone, we ask that you please raise your hand before asking a question. And please do ask questions!
 
-- Workshop storyline
-Sometimes we compile the best tweets and other social media posts into a storyline. Use the hashtag #gobridge when posting so we can find you!
+- San Diego Workshop storyline
+We like to compile tweets and other social media posts into a storyline. Use the hashtag #gobridge-sd when posting so we can find you!
 
 
 * Code of Conduct
@@ -42,16 +43,14 @@ A reminder that we follow Go/GoBridge Code of Conduct. It can be found here:
 * We are here to help you
 
 Organizers
-- ...
-- ...
+- Carlisia Campos - @carlisia
 
-Teacher(s)
-- ...
-- ...
+Teacher
+- Gautam Dey - @__gdey__
 
 TAs
-- ..
-- ..
+- Ravi Sastry Kadali - @ravisastryk
+- César López-Natarén
 
 
 * Don't be shy!
@@ -78,7 +77,7 @@ GoBridge is dedicated to work so that the makers of technology are reflective of
 
 * It's a community project!
 
-- All GoBridge materials are free and open to reuse by anyone (restrictions apply to name it a GoBridge workshop.)
+- All GoBridge materials are free and open to reuse by anyone (restrictions apply to naming it a GoBridge workshop.)
 
 - Many individuals work to make this possible. Join us!
 
@@ -93,7 +92,7 @@ GoBridge is dedicated to work so that the makers of technology are reflective of
 
 - Gophers Slack: There is probably an active channel for your city and your favorite open source projects:
 
-.link https://gophersinvite.herokuapp.com/ https://gophersinvite.herokuapp.com/
+.link https://invite.slack.golangbridge.org/ https://invite.slack.golangbridge.org/
 
 - There are forums where people discuss all things Go:
 
@@ -103,11 +102,6 @@ GoBridge is dedicated to work so that the makers of technology are reflective of
 - Women Who Go: A group of Gophers exclusively for those who identify as women. Find or start a local chapter:
 
 .link http://www.womenwhogo.org http://www.womenwhogo.org
-
-
-* Goals of the workshop
-
-Today you will learn...
 
 
 * What is Go?
@@ -122,21 +116,21 @@ So much so, that it inspired an ever increasing list of proverbs:
 Please thank our awesome sponsors!
 
 
-* Sagan Systems
+* LEARN Academy
 
-  Sagan is a team of successful entrepreneurs crafting a
-  delightful customer support experience for today's
-  mobile, social, always connected consumer.
+  LEARN Academy is a Ruby on Rails and Javascript Bootcamp.
 
-.link http://sagansystems.com http://sagansystems.com
+  At LEARN you'll gain not only the coding skills to do Web Development with Rails but also the skills you need to learn for the future.
 
-.image images/sagan.jpg _ 200
+.link https://www.learnacademy.org/ https://www.learnacademy.org/
 
-* Intel
+.image images/logo-learn.png _ 200
 
-  Intel designs and builds the essential technologies
-  that serve as the foundation for the world's computing devices.
+* Control Group
 
-.link http://intel.com http://intel.com
+  The Control Group Inc. is a progressive web development and marketing firm headquartered in San Diego California.
+  We stand out from other web marketing and development companies because we build and market our own products.
 
-.image images/intel.png _ 200
+.link http://www.thecontrolgroup.com/ http://www.thecontrolgroup.com/
+
+.image images/controlgroup.png _ 200
