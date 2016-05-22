@@ -1,40 +1,46 @@
 GoBridge Workshop - Closing Notes
 Thank you for coming!
 
-[date of workshop here]
+May 22, 2016
 
-[organizer name here]
-[organizer job title - company]
-[email - optional]
-[organizer's website]
-@[organizer twitter handle here]
+Carlisia Campos
+Backend Engineer, Verve
+Co-founding member of GoBridge
+Co-host of Go Time FM
+carlisia@golangbridge.org
+@carlisia
 
 
-* You have completed the GoBridge [name of the course] workshop!
+
+* You have completed the GoBridge Building Web Apps with Go workshop!
 Congratulations!
 
 .image images/gopher-brown.jpg _ 300
 .caption _Gopher_ by [[http://www.reneefrench.com][Renée French]]
 
 * Please thank our awesome sponsors!
-* Sagan Systems
+* LEARN Academy
 
-  Sagan is a team of successful entrepreneurs crafting a
-  delightful customer support experience for today's
-  mobile, social, always connected consumer.
+  LEARN Academy is a Ruby on Rails and Javascript Bootcamp.
 
-.link http://sagansystems.com http://sagansystems.com
+  At LEARN you'll gain not only the coding skills to do Web Development
+  with Rails but also the skills you need to learn for the future.
 
-.image images/sagan.jpg _ 200
+.link https://www.learnacademy.org/ https://www.learnacademy.org/
 
-* Intel
+.image images/logo-learn.png _ 200
 
-  Intel designs and builds the essential technologies
-  that serve as the foundation for the world's computing devices.
+* Control Group
 
-.link http://intel.com http://intel.com
+  The Control Group Inc. is a progressive web development and marketing firm
+  headquartered in San Diego California.
 
-.image images/intel.png _ 200
+  We stand out from other web marketing and development companies because we
+  build and market our own products.
+
+.link http://www.thecontrolgroup.com/ http://www.thecontrolgroup.com/
+
+.image images/controlgroup.png _ 200
 
 
 * Thank you all volunteers!
@@ -42,57 +48,63 @@ Congratulations!
 List names of all volunteers, and thank them.
 
 Organizers
-- ...
-- ...
+- Carlisia Campos - @carlisia
 
-Teacher(s)
-- ...
-- ...
+Teacher
+- Gautam Dey - @__gdey__
 
 TAs
-- ..
-- ..
+- Ravi Sastry Kadali - @ravisastryk
+- César López-Natarén - @nataren
 
 
-* Use your credentials
+* Volunteers: use your new credentials
 
-Go ahead and add your experience to your resume and/or linkedIn:
+Go ahead and add your volunteering experience to your resume and/or linkedIn:
 
-*GoBridge*
-December 2015 - now
-Volunteer (Teacher, Event Organizer)
+.image images/linkedin-gobridge.png _ 810
+
+* Students: stay connected
+
+Join the GoBridge linkedIn Alum Network:
+
+.link https://www.linkedin.com/groups/7055846 https://www.linkedin.com/groups/7055846
+
+* Celebrate! After party!
+
+urbn North Park
+
+4 minute walk from LEARN
+
+Address:
+3085 University Ave
+San Diego, CA
+619.255.7300
+
+.link http://www.urbnnorthpark.com/ http://www.urbnnorthpark.com/
 
 
-* Celebrate!
-
-- Info about after-party, if any.
-
-- Include parking info and directions.
-
-
-* Recap
-
-- List top 3 things that were taught.
+* Retrospective
 
 - Would students like to share what they learned?
 
+- 3 things that were great
 
-* Participate in your local Go community
+- 3 things to improve
 
-Information for each local Go communities.
 
-- Go meetup...
+* Participate in our local Go community
 
-- GoBridge local chapter...
+- Twitter: @sdgophers
 
-- Local Women Who Go chapter...
+- Join the #gobridge and #sandiego channels on Gophers Slack (invite: https://invite.slack.golangbridge.org/)
+
+- Join the San Diego Gophers meetup (next meetup June 16th Downtown): http://www.meetup.com/sdgophers/
 
 
 * Participate in the GoBridge Community
 
 - Twitter: @golangbridge
-
-- Join the #gobridge channel on Gophers Slack (invite: https://gophersinvite.herokuapp.com/)
 
 - Participate in the Go Forum: https://forum.golangbridge.org/
 
@@ -100,6 +112,17 @@ Information for each local Go communities.
 
 - Email support@golangbridge.org
 
+* Continue learning Go
+
+- Watch remote Go meetups: http://remotemeetup.golangbridge.org
+
+- Listen to the Go podcast: http://gotime.fm
+
+- Watch live Go coding sessions: https://www.livecoding.tv/videos/go/
+
+- Beginner friendly book (MEAP) https://manning.com/books/learn-go
+
+- More books (many are free) https://github.com/dariubs/GoBooks
 
 * Want to organize a workshop?
 
